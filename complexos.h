@@ -2,6 +2,7 @@
 #define _USE_MATH_DEFINES
 
 struct tComplexos{
+  
   float real;
   float imag;
   float m;
