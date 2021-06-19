@@ -19,5 +19,7 @@ struct tComplexos{
 
   void mult(tComplexos c1, tComplexos c2);
 
+  void div(tComplexos c1, tComplexos c2);
+
   void printa(tComplexos c1, tComplexos c2);
 

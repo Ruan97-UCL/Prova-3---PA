@@ -5,10 +5,10 @@ using namespace std;
 
 int main() {
     tComplexos c1, c2 ;
-    c1.real = -10;
-    c1.imag = 5;
-    c2.real = 3;
-    c2.imag = -4;
+    c1.real = 2;
+    c1.imag = -2;
+    c2.real = 2;
+    c2.imag = -2;
 
     // cout << "insira parte real e imag do 1o numero: " << endl;
     // cin >> c1.real;
